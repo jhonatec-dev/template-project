@@ -11,6 +11,8 @@ Clone and be happy (NextJS + NodeJS)
 - MongoDB
 - Mongoose
 - Zod Validator
+- Validator
+- React-Hook-Form
 
 
 # Instructions
