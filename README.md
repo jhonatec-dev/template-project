@@ -13,6 +13,7 @@ Clone and be happy (NextJS + NodeJS)
 - Zod Validator
 - Validator
 - React-Hook-Form
+- Cloudinary
 
 
 # Instructions
