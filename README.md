@@ -8,6 +8,9 @@ Clone and be happy (NextJS + NodeJS)
 - JWT
 - NodeMailer
 - DayJS
+- MongoDB
+- Mongoose
+- Zod Validator
 
 
 # Instructions
