@@ -13,7 +13,8 @@ export async function handleUpload (
   const uploadOptions: any = {
     resource_type: 'image',
     overwrite: true,
-    allowed_formats: ['jpg', 'png', 'jpeg', 'webp']
+    allowed_formats: ['jpg', 'png', 'jpeg', 'webp'],
+    folder: 'cloudinary-test'
   }
 
   uploadOptions.public_id = customFilename

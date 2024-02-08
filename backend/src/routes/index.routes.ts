@@ -40,6 +40,7 @@ router.post(
   async (req: Request, res: Response) => {
     try {
       console.log('FILE RIGHT HERE \n\n\n\n\n\n', req.file, '\n\n\n\n\n\n')
+      console.log('BODY RIGHT HERE \n\n\n\n\n\n', req.body.name, '\n\n\n\n\n\n')
       if (req.file == null || req.file === undefined) {
         throw new Error('Arquivo não encontrado')
       }
